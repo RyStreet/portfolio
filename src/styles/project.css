@@ -1,0 +1,14 @@
+#projectContainer{
+    height: 500px;
+    border: solid black;
+    margin-top: 50px;
+}
+
+#projectCard1{
+    width: 50%;
+   
+}
+
+.card{
+    margin-bottom: 15px;
+}
