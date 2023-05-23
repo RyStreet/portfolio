@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rystreet-react-portfolio/static/css/main.02b7e28f.css",
-    "main.js": "/rystreet-react-portfolio/static/js/main.0bf45ff8.js",
+    "main.css": "/rystreet-react-portfolio/static/css/main.94c01688.css",
+    "main.js": "/rystreet-react-portfolio/static/js/main.2d92a87d.js",
     "static/js/787.ebede6cd.chunk.js": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js",
     "static/media/rs-photo.jpg": "/rystreet-react-portfolio/static/media/rs-photo.e250592b6875ad04d192.jpg",
     "static/media/guerrilla.png": "/rystreet-react-portfolio/static/media/guerrilla.1c70647bcbf5d47d807b.png",
@@ -14,10 +14,10 @@
     "static/media/roboto-slab-all-400-normal.woff": "/rystreet-react-portfolio/static/media/roboto-slab-all-400-normal.97bd6f4409f61f498511.woff",
     "static/media/bes.png": "/rystreet-react-portfolio/static/media/bes.246d43323cec7d2d0fad.png",
     "static/media/owl-removebg-preview.png": "/rystreet-react-portfolio/static/media/owl-removebg-preview.1c57e005ff54addc3bef.png",
-    "static/media/logo-black.png": "/rystreet-react-portfolio/static/media/logo-black.ec250f2788c2979bc3fe.png",
     "static/media/tutor.JPG": "/rystreet-react-portfolio/static/media/tutor.458e3fd6cf325335873f.JPG",
     "static/media/QuickHits.png": "/rystreet-react-portfolio/static/media/QuickHits.1126b55df8063d38bc8b.png",
     "static/media/github-logo2.png": "/rystreet-react-portfolio/static/media/github-logo2.274024c4c788235cd5eb.png",
+    "static/media/logo-black-removebg-preview.png": "/rystreet-react-portfolio/static/media/logo-black-removebg-preview.b33d10136ac64243f4e9.png",
     "static/media/roboto-slab-latin-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-latin-400-normal.86b711159e092f168695.woff2",
     "static/media/roboto-slab-cyrillic-ext-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-cyrillic-ext-400-normal.3aa73ffaf4ff9dd4981b.woff2",
     "static/media/roboto-slab-cyrillic-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-cyrillic-400-normal.aca02e00b61fa01c051a.woff2",
@@ -29,12 +29,12 @@
     "static/media/roboto-slab-greek-ext-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-greek-ext-400-normal.b32338de250af5281d8e.woff2",
     "index.html": "/rystreet-react-portfolio/index.html",
     "static/media/envelope.svg": "/rystreet-react-portfolio/static/media/envelope.ceed57e9483391a79813f313693eb103.svg",
-    "main.02b7e28f.css.map": "/rystreet-react-portfolio/static/css/main.02b7e28f.css.map",
-    "main.0bf45ff8.js.map": "/rystreet-react-portfolio/static/js/main.0bf45ff8.js.map",
+    "main.94c01688.css.map": "/rystreet-react-portfolio/static/css/main.94c01688.css.map",
+    "main.2d92a87d.js.map": "/rystreet-react-portfolio/static/js/main.2d92a87d.js.map",
     "787.ebede6cd.chunk.js.map": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.02b7e28f.css",
-    "static/js/main.0bf45ff8.js"
+    "static/css/main.94c01688.css",
+    "static/js/main.2d92a87d.js"
   ]
 }
