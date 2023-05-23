@@ -16,7 +16,7 @@ export default function Navigation (){
             <Navbar.Collapse id="responsive-navbar-nav">
                 <Nav>
                     <Nav.Link>About</Nav.Link>
-                    <Nav.Link>Projects</Nav.Link>
+                    <Nav.Link>Experience</Nav.Link>
                     <Nav.Link>Resume</Nav.Link>
                     <Nav.Link>Contact</Nav.Link>
                     <Nav.Link><img style={{height:"35px"}} id="github" src={github}></img></Nav.Link>
