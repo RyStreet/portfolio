@@ -259,13 +259,13 @@ export default function Projects() {
 
             <a
               className="anchor"
-              href="https://checkpointxp.com/2021/12/03/college-esports-program/"
+              href="https://checkpointxp.com/2021/12/14/facebooks-hostile-meta-takeover/"
               target="_blank"
               rel="noopener noreferrer"
             >
               <article className="card myProjects writing m-2" id="project1">
                 <div className="card-title">
-                  <h2>College Esports - How to Grow and Evolve</h2>
+                  <h2>Facebook's Hostile Meta Takeover</h2>
                 </div>
 
                 <div className="card-body">
