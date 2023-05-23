@@ -14,6 +14,9 @@ import cxp2 from "../images/cxp-square.png";
 
 export default function Projects() {
   return (
+
+    <div id="experience">
+
     <section id="projectContainer">
       <div className="container">
         <h2 id="codingProjects">Coding Projects</h2>
@@ -279,5 +282,7 @@ export default function Projects() {
         </div>
       </div>
     </section>
+
+    </div>
   );
 }

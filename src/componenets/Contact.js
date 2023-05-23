@@ -4,6 +4,9 @@ import env from "../images/envelope.svg";
 
 export default function Contact() {
   return (
+<div>
+  
+
     <section id="contactContainer">
       <div className="container ">
         <h2 id="contact">Contact</h2>
@@ -45,5 +48,7 @@ export default function Contact() {
       </div>
 
     </section>
+
+    </div>
   );
 }

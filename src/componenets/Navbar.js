@@ -1,11 +1,12 @@
 import "../styles/navbar.css";
 import { Nav, Navbar, Container } from "react-bootstrap";
-import logo from "../images/logo-black.png";
+import logo from "../images/logo-black-removebg-preview.png";
 import github from "../images/github.svg";
 import linkedIn from "../images/linkedin-logo.png";
 
 export default function Navigation() {
   return (
+    
     <Navbar
       sticky="top"
       collapseOnSelect
@@ -20,10 +21,10 @@ export default function Navigation() {
       <Navbar.Toggle aria-controls="responsive-navbar-nav" />
       <Navbar.Collapse id="responsive-navbar-nav">
         <Nav>
-          <Nav.Link>About</Nav.Link>
-          <Nav.Link>Experience</Nav.Link>
-          <Nav.Link>Resume</Nav.Link>
-          <Nav.Link>Contact</Nav.Link>
+          <Nav.Link href="#about">About</Nav.Link>
+          <Nav.Link href="#experience">Experience</Nav.Link>
+          <Nav.Link href="#resume">Resume</Nav.Link>
+          <Nav.Link href="#contact">Contact</Nav.Link>
           <a
             href="https://github.com/RyStreet/"
             className="nav-link"
@@ -51,6 +52,7 @@ export default function Navigation() {
         </Nav>
       </Navbar.Collapse>
     </Navbar>
+   
   );
 }
 

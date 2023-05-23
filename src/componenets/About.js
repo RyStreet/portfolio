@@ -13,6 +13,9 @@ import { faArrowDown } from "@fortawesome/free-solid-svg-icons"
 export default function About(){
 
     return(
+        <div>
+<div id="about"></div>
+
 <div id="aboutContainer">
     <section className="mt-3">
         
@@ -51,6 +54,8 @@ export default function About(){
         </section>
 
         
+
+        </div>
 
         </div>
     )

@@ -3,6 +3,9 @@ import "../styles/resume.css";
 
 export default function Resume() {
   return (
+<div>
+    <div id="resume"></div>
+
     <section id="resumeContainer">
       <div className="container">
         <h2 id="resTitle">Resume</h2>
@@ -120,5 +123,7 @@ export default function Resume() {
      
 
     </section>
+
+    </div>
   );
 }
