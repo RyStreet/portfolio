@@ -1,5 +1,5 @@
 #projectContainer{
-   height: 300vh;
+   height: 500vh;
     margin-top: 50px;
     font-family: "Roboto Slab";
 }
@@ -57,9 +57,35 @@ article:hover{
 #guerrilla{
     width: 100%;
 }
+#honey{
+    width: 100%;
+}
+#cxp{
+    width: 100%;
+}
+#clarke{
+    width: 100%;
+}
 
+#writingSamplesContainer{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+   
+    
+    
+}
 
+.writing{
 
+    width: 300px;
+    height: 100%;
+    
+    
+
+}
 
 
 
@@ -79,6 +105,29 @@ article:hover{
     }
 }
 
+
+@media screen and (max-width: 770px) {
+ 
+  
+    .writing{
+        width: 100%;
+        margin-top: 5%;
+        height: 350px;
+    }
+    #honey{
+        height: 200px;
+        width: 200px;
+    }
+    #clarke{
+        height: 200px;
+        width: 250px;
+    }
+    #writingSamplesContainer{
+        height: 100%;
+        
+    }
+}
+
 @media screen and (max-width: 600px) {
  
     .projectDescription{
@@ -86,4 +135,5 @@ article:hover{
         margin: 2%;
         margin-top: 30px;
     }
+  
 }
