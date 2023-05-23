@@ -3,6 +3,7 @@ import About from "./About"
 import Projects from "./Projects"
 import Particle from "./Particles"
 import Resume from "./Resume"
+import Contact from "./Contact"
 
 
 export default function PortfolioContainer(){
@@ -14,6 +15,7 @@ export default function PortfolioContainer(){
             <About/>
             <Projects/>
             <Resume/>
+            <Contact/>
             
             
         </div>

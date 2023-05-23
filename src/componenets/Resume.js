@@ -19,7 +19,7 @@ export default function Resume() {
         </div>
 
         <div id="workExperience">
-            <h2 className="mt-4 col-3 title">Work Experience</h2>
+            <h2 className="mt-4 col-4 title">Work Experience</h2>
 
         <article className="job mt-4">
             <div className="container-fluid">
@@ -103,7 +103,12 @@ export default function Resume() {
                 </div>
             </div>
         </article>
-
+        <div className="container mt-4">
+     <a target="_blank"
+            rel="noopener noreferrer" href="https://docs.google.com/document/d/17pwlHgXQe4rupaYlpAoe1JD2Z-sYl1Q8/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
+     <button className="btn btn-outline-dark">Download Resume</button>
+    </a>   
+</div>
 
 
         </div>
@@ -111,12 +116,7 @@ export default function Resume() {
         
       </div>
 
-<div className="container mt-4">
-     <a target="_blank"
-            rel="noopener noreferrer" href="https://docs.google.com/document/d/17pwlHgXQe4rupaYlpAoe1JD2Z-sYl1Q8/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
-     <button className="btn btn-outline-dark">Download Resume</button>
-    </a>   
-</div>
+
      
 
     </section>
