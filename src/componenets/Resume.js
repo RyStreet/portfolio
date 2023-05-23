@@ -84,7 +84,7 @@ export default function Resume() {
             </ul>
         </article>
 
-        <h2 className="mt-4 col-2 title">Education</h2>
+        <h2 className="mt-4 mb-4 col-2 title">Education</h2>
 
         <article className="job mt-4">
             <div className="container-fluid">
@@ -108,8 +108,17 @@ export default function Resume() {
 
         </div>
 
-
+        
       </div>
+
+<div className="container mt-4">
+     <a target="_blank"
+            rel="noopener noreferrer" href="https://docs.google.com/document/d/17pwlHgXQe4rupaYlpAoe1JD2Z-sYl1Q8/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
+     <button className="btn btn-outline-dark">Download Resume</button>
+    </a>   
+</div>
+     
+
     </section>
   );
 }
