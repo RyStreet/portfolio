@@ -35,6 +35,7 @@ export default function About(){
 
      <div id="aboutText2">
             <p id="aboutP">
+            <i class="fa-brands fa-github"></i>
                 Hi i'm Ryan, a young professional with experience in content marketing,
                     writing, and web development. Check out some of my projects, apps and
                     writing samples. 

@@ -1,5 +1,5 @@
 #projectContainer{
-   height: 500vh;
+   /* height: 500vh; */
     margin-top: 50px;
     font-family: "Roboto Slab";
 }
@@ -72,6 +72,7 @@ article:hover{
     flex-direction: row;
     flex-wrap: wrap;
     justify-content: space-evenly;
+    /* border-bottom: solid black; */
     
    
     
@@ -97,10 +98,10 @@ article:hover{
         justify-content: center;
     }
     .projectThumb{
-        width: 60%;
+        width: 35%;
     }
     .projectDescription{
-        font-size: x-large;
+        font-size: large;
         margin: 1%;
     }
 }
@@ -108,7 +109,9 @@ article:hover{
 
 @media screen and (max-width: 770px) {
  
-  
+    .projectThumb{
+        width: 60%;
+    }
     .writing{
         width: 100%;
         margin-top: 5%;

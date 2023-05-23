@@ -6,11 +6,11 @@ import munchr from "../images/munchr-png.png";
 import bes from "../images/bes.png";
 import quickHits from "../images/QuickHits.png";
 import cxp from "../images/cxp-logo.png";
-import owl from "../images/owl-removebg-preview.png"
-import guerrilla from "../images/guerrilla.png"
-import honey from "../images/honey-removebg-preview.png"
-import clarke from "../images/clarke.jpg"
-import cxp2 from "../images/cxp-square.png"
+import owl from "../images/owl-removebg-preview.png";
+import guerrilla from "../images/guerrilla.png";
+import honey from "../images/honey-removebg-preview.png";
+import clarke from "../images/clarke.jpg";
+import cxp2 from "../images/cxp-square.png";
 
 export default function Projects() {
   return (
@@ -174,10 +174,11 @@ export default function Projects() {
                   publication.
                   <br></br>
                   <br></br>
-                  Created written, video and audio content for professional Esports teams the Houston Outlaws and Team AXLE as
-                  well as a gaming publication called CheckpointXP. One of the
-                  key roles I played on CheckpointXP was a complete redesign of
-                  the brand into its current iteration, CXP.GG.
+                  Created written, video and audio content for professional
+                  Esports teams the Houston Outlaws and Team AXLE as well as a
+                  gaming publication called CheckpointXP. One of the key roles I
+                  played on CheckpointXP was a complete redesign of the brand
+                  into its current iteration, CXP.GG.
                 </p>
               </div>
             </article>
@@ -185,97 +186,98 @@ export default function Projects() {
 
           <h2 id="writingSamples">Writing Samples</h2>
 
-        <section id="writingSamplesContainer">
+          <section id="writingSamplesContainer">
+            <a
+              className="anchor"
+              href="https://ryanstreetmedia.wordpress.com/blog/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <article className="card myProjects writing mb-2" id="project1">
+                <div className="card-title">
+                  <h2>
+                    {" "}
+                    What is Guerilla Marketing? Kick-Ass Strategies and Examples
+                  </h2>
+                </div>
 
-          <a
-            className="anchor"
-            href="https://ryanstreetmedia.wordpress.com/blog/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <article className="card myProjects writing mb-2" id="project1">
-              <div className="card-title">
-                <h2> What is Guerilla Marketing? Kick-Ass Strategies and Examples</h2>
-              </div>
+                <div className="card-body">
+                  <img
+                    id="guerrilla"
+                    src={guerrilla}
+                    className="projectThumb"
+                  ></img>
 
-              <div className="card-body">
-                <img id="guerrilla" src={guerrilla} className="projectThumb"></img>
+                  <p className="projectDescription"></p>
+                </div>
+              </article>
+            </a>
 
-                <p className="projectDescription">
-                  
-                </p>
-              </div>
-            </article>
-          </a>
+            <a
+              className="anchor"
+              href="https://www.beesandtrees.com/blogs/news/14-mind-blowing-uses-of-manuka-honey"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <article className="card myProjects writing m-2" id="project1">
+                <div className="card-title">
+                  <h2>
+                    {" "}
+                    14 Mind Blowing Uses of Manuka Honey - Bees and Trees - SEO
+                    Blog
+                  </h2>
+                </div>
 
-          <a
-            className="anchor"
-            href="https://www.beesandtrees.com/blogs/news/14-mind-blowing-uses-of-manuka-honey"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <article className="card myProjects writing m-2" id="project1">
-              <div className="card-title">
-                <h2> 14 Mind Blowing Uses of Manuka Honey - Bees and Trees - SEO Blog</h2>
-              </div>
+                <div className="card-body">
+                  <img id="honey" src={honey} className="projectThumb"></img>
 
-              <div className="card-body">
-                <img id="honey" src={honey} className="projectThumb"></img>
+                  <p className="projectDescription"></p>
+                </div>
+              </article>
+            </a>
 
-                <p className="projectDescription">
-                  
-                </p>
-              </div>
-            </article>
-          </a>
+            <a
+              className="anchor"
+              href="https://drive.google.com/file/d/1WovgzU5Wm0Mt705rWAhCazGqizuHyR-M/view?usp=sharing"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <article className="card myProjects writing m-2" id="project1">
+                <div className="card-title">
+                  <h2>
+                    Cytokine Storms - Clarke Pharmaceuticals - Email Marketing
+                  </h2>
+                </div>
 
-          <a
-            className="anchor"
-            href="https://drive.google.com/file/d/1WovgzU5Wm0Mt705rWAhCazGqizuHyR-M/view?usp=sharing"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <article className="card myProjects writing m-2" id="project1">
-              <div className="card-title">
-                <h2>Cytokine Storms - Clarke Pharmaceuticals - Email Marketing</h2>
-              </div>
+                <div className="card-body">
+                  <img id="clarke" src={clarke} className="projectThumb"></img>
 
-              <div className="card-body">
-                <img id="clarke" src={clarke} className="projectThumb"></img>
+                  <p className="projectDescription"></p>
+                </div>
+              </article>
+            </a>
 
-                <p className="projectDescription">
-                  
-                </p>
-              </div>
-            </article>
-          </a>
+            <a
+              className="anchor"
+              href="https://checkpointxp.com/2021/12/03/college-esports-program/"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              <article className="card myProjects writing m-2" id="project1">
+                <div className="card-title">
+                  <h2>College Esports - How to Grow and Evolve</h2>
+                </div>
 
-          <a
-            className="anchor"
-            href="https://checkpointxp.com/2021/12/03/college-esports-program/"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <article className="card myProjects writing m-2" id="project1">
-              <div className="card-title">
-                <h2>College Esports - How to Grow and Evolve</h2>
-              </div>
+                <div className="card-body">
+                  <img id="cxp" src={cxp2} className="projectThumb"></img>
 
-              <div className="card-body">
-                <img id="cxp" src={cxp2} className="projectThumb"></img>
-
-                <p className="projectDescription">
-                  
-                </p>
-              </div>
-            </article>
-          </a>
+                  <p className="projectDescription"></p>
+                </div>
+              </article>
+            </a>
           </section>
-            
-
         </div>
       </div>
-
     </section>
   );
 }

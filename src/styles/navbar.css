@@ -5,4 +5,9 @@ Nav{
 }
 #github{
     height: 5px;
+    color: blue;
+}
+
+#github:hover{
+    color: beige;
 }
