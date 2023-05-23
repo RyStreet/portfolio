@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/rystreet-react-portfolio/static/css/main.915bb853.css",
-    "main.js": "/rystreet-react-portfolio/static/js/main.dcb20e6f.js",
+    "main.css": "/rystreet-react-portfolio/static/css/main.7bf3fb4a.css",
+    "main.js": "/rystreet-react-portfolio/static/js/main.eef6b482.js",
     "static/js/787.ebede6cd.chunk.js": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js",
     "static/media/rs-photo.jpg": "/rystreet-react-portfolio/static/media/rs-photo.e250592b6875ad04d192.jpg",
     "static/media/guerrilla.png": "/rystreet-react-portfolio/static/media/guerrilla.1c70647bcbf5d47d807b.png",
@@ -25,14 +25,15 @@
     "static/media/roboto-slab-greek-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-greek-400-normal.cb1427914a3318f8af7d.woff2",
     "static/media/roboto-slab-vietnamese-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-vietnamese-400-normal.0bbefed33334496975f0.woff2",
     "static/media/logo.svg": "/rystreet-react-portfolio/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/github.svg": "/rystreet-react-portfolio/static/media/github.ebd452bf402237ef25876cdcac686676.svg",
     "static/media/roboto-slab-greek-ext-400-normal.woff2": "/rystreet-react-portfolio/static/media/roboto-slab-greek-ext-400-normal.b32338de250af5281d8e.woff2",
     "index.html": "/rystreet-react-portfolio/index.html",
-    "main.915bb853.css.map": "/rystreet-react-portfolio/static/css/main.915bb853.css.map",
-    "main.dcb20e6f.js.map": "/rystreet-react-portfolio/static/js/main.dcb20e6f.js.map",
+    "main.7bf3fb4a.css.map": "/rystreet-react-portfolio/static/css/main.7bf3fb4a.css.map",
+    "main.eef6b482.js.map": "/rystreet-react-portfolio/static/js/main.eef6b482.js.map",
     "787.ebede6cd.chunk.js.map": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.915bb853.css",
-    "static/js/main.dcb20e6f.js"
+    "static/css/main.7bf3fb4a.css",
+    "static/js/main.eef6b482.js"
   ]
 }
