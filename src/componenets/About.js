@@ -14,6 +14,7 @@ export default function About(){
 
     return(
         <div>
+            
 <div id="about"></div>
 
 <div id="aboutContainer">
@@ -27,6 +28,7 @@ export default function About(){
             <h1 id="nameTag">Ryan Street</h1>
             <div id="introType">
                 <IntroType></IntroType>
+                
             </div>
         </div>
         

@@ -4,6 +4,7 @@ import logo from "../images/logo-black-removebg-preview.png";
 import github from "../images/github.svg";
 import linkedIn from "../images/linkedin-logo.png";
 
+
 export default function Navigation() {
   return (
     
@@ -32,7 +33,7 @@ export default function Navigation() {
             rel="noopener noreferrer"
           >
             <img
-              style={{ height: "35px", color: "pink" }}
+              style={{ height: "35px", marginLeft: "13px", color: "pink" }}
               id="github"
               src={github}
             ></img>

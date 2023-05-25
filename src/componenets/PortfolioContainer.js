@@ -13,6 +13,7 @@ export default function PortfolioContainer(){
         
             
             <About/>
+            
             <Projects/>
             <Resume/>
             <Contact/>

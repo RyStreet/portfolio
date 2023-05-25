@@ -91,6 +91,9 @@ return(
                     size: {
                         value: { min: 1, max: 5 },
                     },
+                    height:
+                        600
+                    
                 },
                 detectRetina: true,
             }}
