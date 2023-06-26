@@ -27,15 +27,17 @@ export default function Resume() {
         <article className="job mt-4">
             <div className="container-fluid">
                 <div className="row">
-                <h4 className="">Marketing Manager | BeSomeone</h4>
+                <h4 className="">Digital Specialist, Web Developer | BeSomeone</h4>
                 <h5 className="">June 2022 - Present</h5>
                 </div>
             </div>
           
             <ul>
-                <li>Synthesize developer and marketing skills to maintain the primary project domain at besomeone.vip.</li>
-                <li>Create and analyze social media content marketing campaigns </li>
-                <li>Facilitate community Discord and manage social media internship programs.</li>
+                <li>Facilitate website design, compatibility and user experience.</li>
+                <li>Develop website features with custom HTML and Javascript.</li>
+                <li>Manage and analyze social media content marketing campaigns. </li>
+                <li>Design marketing materials, messaging and graphics</li>
+                <li>Lead internship program focusing on best practices for social media marketing and web development.</li>
             </ul>
         </article>
 
@@ -62,10 +64,11 @@ export default function Resume() {
             </div>
           
             <ul>
-                <li>Managed content creation for esports and gaming media. </li>
-                <li>Coordinated a complete rebranding for one of our outlets - CheckpointXP. </li>
-                <li>Lead internship program designed to educate students on best practices for online publishing. </li>
+                <li>Managed content creation for esports and gaming media outlet. </li>
+                <li>Coordinated a complete rebranding for one of our publications - CheckpointXP. </li>
+                <li>Established new content verticals, managed content publication and social media.</li>
                 <li>Built and managed business relationships within Esports, gaming brands and universities. </li>
+                <li>Migrated the previous version of the website to a new domain host on Wix.</li>
             </ul>
         </article>
 
@@ -79,9 +82,8 @@ export default function Resume() {
           
             <ul>
                 <li>Lead creative direction for online marketing campaigns across a wide variety of businesses and nonprofits. </li>
+                <li>Revitalized client websites with intuitive UX, content, and messaging</li>
                 <li>Wrote, edited, and published 10-12 pieces of unique content per client each month. </li>
-                <li>Collaborated with design and production staff to create innovative designs for marketing projects while managing deadlines. </li>
-                <li>Revamped work strategies and processes to better accomplish agency objectives.</li>
                 <li>Significantly increased client's brand recognition and revenue while achieving over $300,000 in campaign fundraising for a client.</li>
 
             </ul>
@@ -108,7 +110,7 @@ export default function Resume() {
         </article>
         <div className="container mt-4">
      <a target="_blank"
-            rel="noopener noreferrer" href="https://docs.google.com/document/d/17pwlHgXQe4rupaYlpAoe1JD2Z-sYl1Q8/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
+            rel="noopener noreferrer" href="https://docs.google.com/document/d/128Td--36THUOunAFfLrQtp1sszhuA2-D/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
      <button className="btn btn-outline-dark">Download Resume</button>
     </a>   
 </div>
