@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/rystreet-react-portfolio/static/css/main.94c01688.css",
-    "main.js": "/rystreet-react-portfolio/static/js/main.8a937d7f.js",
+    "main.js": "/rystreet-react-portfolio/static/js/main.775f5c94.js",
     "static/js/787.ebede6cd.chunk.js": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js",
     "static/media/rs-photo.jpg": "/rystreet-react-portfolio/static/media/rs-photo.e250592b6875ad04d192.jpg",
     "static/media/guerrilla.png": "/rystreet-react-portfolio/static/media/guerrilla.1c70647bcbf5d47d807b.png",
@@ -30,11 +30,11 @@
     "index.html": "/rystreet-react-portfolio/index.html",
     "static/media/envelope.svg": "/rystreet-react-portfolio/static/media/envelope.ceed57e9483391a79813f313693eb103.svg",
     "main.94c01688.css.map": "/rystreet-react-portfolio/static/css/main.94c01688.css.map",
-    "main.8a937d7f.js.map": "/rystreet-react-portfolio/static/js/main.8a937d7f.js.map",
+    "main.775f5c94.js.map": "/rystreet-react-portfolio/static/js/main.775f5c94.js.map",
     "787.ebede6cd.chunk.js.map": "/rystreet-react-portfolio/static/js/787.ebede6cd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.94c01688.css",
-    "static/js/main.8a937d7f.js"
+    "static/js/main.775f5c94.js"
   ]
 }
