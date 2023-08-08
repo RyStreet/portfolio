@@ -41,9 +41,10 @@ export default function About(){
      <div id="aboutText2">
             <p id="aboutP">
             <i class="fa-brands fa-github"></i>
-                Hi i'm Ryan, a young professional with experience in content marketing,
-                    writing, and web development. Check out some of my projects, apps and
-                    writing samples. 
+                Hi i'm Ryan. I love helping businesses thrive at the crossroads of technology and creativity. I blend my skills in full stack web
+development, digital marketing management and creative writing to execute effective projects, establish unique
+virtual experiences, and grow businesses online.
+
                     <br></br>
                     <br></br>
                     Interested in reaching out? Don't hesitate to

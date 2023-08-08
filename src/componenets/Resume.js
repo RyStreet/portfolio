@@ -29,15 +29,25 @@ export default function Resume() {
                 <div className="row">
                 <h4 className="">Digital Specialist, Web Developer | BeSomeone</h4>
                 <h5 className="">June 2022 - Present</h5>
+                <h6><i>BeSomeone is a startup, peer-to-peer life coaching network for teens. Initially hired as a social media manager, I
+now assume the role of all things digital and work closely with the company’s solopreneur.</i>
+</h6>
                 </div>
             </div>
           
             <ul>
-                <li>Facilitate website design, compatibility and user experience.</li>
-                <li>Develop website features with custom HTML and Javascript.</li>
-                <li>Manage and analyze social media content marketing campaigns. </li>
-                <li>Design marketing materials, messaging and graphics</li>
-                <li>Lead internship program focusing on best practices for social media marketing and web development.</li>
+                <li>Develop unique features for the company website with JavaScript while creating compelling copy,
+increasing the average user session to 7 minutes, a 53% increase.
+</li>
+                <li> Drive engagement to platform through creative digital marketing campaigns, increasing unique visitors by
+over 2000%.
+</li>
+                <li> Execute business strategies and employ Agile methodologies, successfully achieving MVP in a 4-week
+project timeline.
+</li>
+                <li>Mentor interns on best practices for digital marketing and web development, earning additional social
+media engagements by nearly 300,000 views in December 2022.</li>
+              
             </ul>
         </article>
 
@@ -46,12 +56,20 @@ export default function Resume() {
                 <div className="row">
                 <h4 className="">Creative Writer | Houston Outlaws</h4>
                 <h5 className="">June 2022 - Present</h5>
+                <h6><i>The Houston Outlaws are a premier esports brand that owns and operates many gaming properties. While I
+decided to pursue new opportunities, I continue to work for them contractually as a creative writer.</i>
+</h6>
                 </div>
             </div>
           
             <ul>
-                <li>Write weekly radio segments and web content covering Esports and Gaming News. </li>
-                <li>Nationally syndicated across the US through radio distributor Key Networks. </li>
+                <li>Author and edit 10 engaging 24-second radio spots each week covering esports, gaming, tech and
+pop-culture news with a humorous and sardonic twist.</li>
+                <li>Broadcast to national audiences around 2-4 times a day at prime-time through more than 63 radio stations
+across the US.
+</li>
+<li>Overhauled creative process to improve content quality and accelerate production time, leading to a more
+lucrative production partnership, increasing revenue and ad sales by nearly $30,000 per year.</li>
             </ul>
         </article>
 
@@ -64,11 +82,18 @@ export default function Resume() {
             </div>
           
             <ul>
-                <li>Managed content creation for esports and gaming media outlet. </li>
-                <li>Coordinated a complete rebranding for one of our publications - CheckpointXP. </li>
-                <li>Established new content verticals, managed content publication and social media.</li>
-                <li>Built and managed business relationships within Esports, gaming brands and universities. </li>
-                <li>Migrated the previous version of the website to a new domain host on Wix.</li>
+                <li> Successfully led a 6 month project to rebrand one of our properties, an online publication called
+CheckpointXP.
+</li>
+                <li>Orchestrated effective collaboration amongst a cross-functional team of 10 technical and design
+professionals to achieve goals and meet deadlines.
+</li>
+                <li>Cultivated and managed valuable business relationships within esports and gaming, leading to over
+$100,000 in increased revenue through sponsorship deals.
+</li>
+                <li>Delivered 5-10 pieces of SEO web content consistently each week.
+</li>
+            
             </ul>
         </article>
 
@@ -77,14 +102,20 @@ export default function Resume() {
                 <div className="row">
                 <h4 className="">Associate Project Manager | SeedX</h4>
                 <h5 className="">Aug 2020 - Sep 2021</h5>
+                <h3><i>SeedX is an omnichannel digital marketing startup. I began my journey here as a content creator and quickly
+moved into managing my own marketing campaigns.</i></h3>
                 </div>
             </div>
           
             <ul>
-                <li>Lead creative direction for online marketing campaigns across a wide variety of businesses and nonprofits. </li>
-                <li>Revitalized client websites with intuitive UX, content, and messaging</li>
-                <li>Wrote, edited, and published 10-12 pieces of unique content per client each month. </li>
-                <li>Significantly increased client's brand recognition and revenue while achieving over $300,000 in campaign fundraising for a client.</li>
+                <li> Orchestrated the creative direction of digital marketing campaigns for a diverse range of businesses and
+nonprofits.
+</li>
+                <li>Achieved exceptional results by driving substantial brand recognition and revenue growth, surpassing
+$300,000 in a 6-week fundraising campaign for a client.</li>
+                <li>Transformed client websites through intuitive UX, compelling content, and impactful messaging.</li>
+                <li>Authored and published 10-12 pieces of high-quality, tailored content per client monthly, boosting SEO
+performance, leading to increased sales conversions and engagement.</li>
 
             </ul>
         </article>
@@ -110,7 +141,7 @@ export default function Resume() {
         </article>
         <div className="container mt-4">
      <a target="_blank"
-            rel="noopener noreferrer" href="https://docs.google.com/document/d/128Td--36THUOunAFfLrQtp1sszhuA2-D/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
+            rel="noopener noreferrer" href="https://docs.google.com/document/d/1DR4RzB0cZB8JWyYNQCloU6p91qtEvb-E/edit?usp=sharing&ouid=108990533128814279209&rtpof=true&sd=true">
      <button className="btn btn-outline-dark">Download Resume</button>
     </a>   
 </div>
