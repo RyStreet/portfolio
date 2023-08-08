@@ -102,8 +102,8 @@ $100,000 in increased revenue through sponsorship deals.
                 <div className="row">
                 <h4 className="">Associate Project Manager | SeedX</h4>
                 <h5 className="">Aug 2020 - Sep 2021</h5>
-                <h3><i>SeedX is an omnichannel digital marketing startup. I began my journey here as a content creator and quickly
-moved into managing my own marketing campaigns.</i></h3>
+                <h6><i>SeedX is an omnichannel digital marketing startup. I began my journey here as a content creator and quickly
+moved into managing my own marketing campaigns.</i></h6>
                 </div>
             </div>
           
