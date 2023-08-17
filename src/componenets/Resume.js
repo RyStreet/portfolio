@@ -56,8 +56,7 @@ media engagements by nearly 300,000 views in December 2022.</li>
                 <div className="row">
                 <h4 className="">Creative Writer | Houston Outlaws</h4>
                 <h5 className="">June 2022 - Present</h5>
-                <h6><i>The Houston Outlaws are a premier esports brand that owns and operates many gaming properties. While I
-decided to pursue new opportunities, I continue to work for them contractually as a creative writer.</i>
+                <h6><i>The Houston Outlaws are a premier esports brand that owns and operates many gaming properties.</i>
 </h6>
                 </div>
             </div>
